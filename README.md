@@ -1,3 +1,3 @@
 # This is a heading
 
-A fact-paced course? o.o
+A fast-paced course for getting up to speed with Git and Github
